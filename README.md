@@ -19,7 +19,7 @@ npm x -- tsc --init
 ```
 Copy [tsconfig.json](https://github.com/lucasrluz/setup-nodejs/blob/main/tsconfig.json) to the root directory of your project
 
-ESLint:
+ESLint and Prettier:
 
 ```
 npm i -D eslint prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier eslint-plugin-prettier
