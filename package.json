@@ -6,5 +6,4 @@
   "scripts": {
     "start:dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules src/main.ts"
   }
-
 }
